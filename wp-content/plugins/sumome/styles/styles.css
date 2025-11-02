@@ -3,23 +3,23 @@
 
 @font-face {
   font-family: "Perfectly Nineties";
-  src: url("https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-Semibold.otf") format("opentype"),
-    url("https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-SemiboldItalic.otf") format("opentype");
+  src: url("https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-Semibold.otf") format("opentype"),
+    url("https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-SemiboldItalic.otf") format("opentype");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Perfectly Nineties Thin";
-  src: url("https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-Regular.otf") format("opentype"),
-    url("https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-RegularItalic.otf") format("opentype");
+  src: url("https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-Regular.otf") format("opentype"),
+    url("https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-RegularItalic.otf") format("opentype");
   font-weight: 100;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Inter";
-  src: url("https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-Semibold.ttf") format("opentype");
+  src: url("https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/styles/fonts/PerfectlyNineties-Semibold.ttf") format("opentype");
   font-weight: 600;
   font-style: normal;
 }
@@ -64,7 +64,7 @@
 .header-banner {
   text-align: center;
   background: var(--color-white);
-  background-image: url("https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/images/Bdow-Sumo.jpg");
+  background-image: url("https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/images/Bdow-Sumo.jpg");
   background-size: 200px auto;
   background-repeat: no-repeat;
   border-bottom: 2px solid var(--color-grey);
@@ -762,7 +762,7 @@ button.green.dashboard-button,
   vertical-align: middle;
   line-height: 60px;
   padding-left: 45px;
-  background-image: url("https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/images/sumome_crown.png");
+  background-image: url("https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/images/sumome_crown.png");
   background-repeat: no-repeat;
   background-position: left center;
   margin-left: 20px;
@@ -770,7 +770,7 @@ button.green.dashboard-button,
 
 .sumome-plugin-main .popup-close,
 .sumome-plugin-dashboard-widget-close-button {
-  background: url("https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/images/modal-close.png") no-repeat;
+  background: url("https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/images/modal-close.png") no-repeat;
   float: right;
   width: 15px;
   height: 16px;
@@ -851,7 +851,7 @@ button.green.dashboard-button,
 }
 
 .sumome-plugin-dashboard-widget-inner ul {
-  list-style-image: url("https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/images/checkmark.png");
+  list-style-image: url("https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/images/checkmark.png");
   text-align: left;
   margin: 0px auto;
   font-size: 16px;
@@ -885,7 +885,7 @@ button.green.dashboard-button,
   background-color: #fff;
   padding-bottom: 50px;
   margin-top: 25px;
-  background-image: url(https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/sumome/images/sumome-site-welcome-graph.png);
+  background-image: url(https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/sumome/images/sumome-site-welcome-graph.png);
   background-repeat: no-repeat;
   background-position: center;
   margin: 25px auto;

@@ -23,7 +23,7 @@ body {
 	font-weight: 400;
 	font-family: Karla, Arial, Helvetica, sans-serif;
 	line-height: 1.6;
-	background: #e8e8e8 url('https://rashiddeveloper1.github.io/dosomething//wp-content/themes/prose/img/bg-site.gif');
+	background: #e8e8e8 url('https://rashiddeveloper1.github.io/dosomething/wp-content/themes/prose/img/bg-site.gif');
 	}
 
 /* Headings */
@@ -417,7 +417,7 @@ img[class*="attachment-"] {
 	min-height: 35px;
 	margin-bottom: 40px;
 	padding-bottom: 8px;
-	background: #242424 url('https://rashiddeveloper1.github.io/dosomething//wp-content/themes/prose/img/bg-navbar.gif') repeat-x;
+	background: #242424 url('https://rashiddeveloper1.github.io/dosomething/wp-content/themes/prose/img/bg-navbar.gif') repeat-x;
 	border: none;
 	border-top: 1px solid #222;
 	}
@@ -501,7 +501,7 @@ img[class*="attachment-"] {
  */
 
 .site-main {
-	background: url('https://rashiddeveloper1.github.io/dosomething//wp-content/themes/prose/img/bg-main.gif') repeat-x 0 100%;
+	background: url('https://rashiddeveloper1.github.io/dosomething/wp-content/themes/prose/img/bg-main.gif') repeat-x 0 100%;
 	}
 
 .site-content {
@@ -552,7 +552,7 @@ img[class*="attachment-"] {
 	width: 10px;
 	height: 100%;
 	position: absolute;
-	background: url('https://rashiddeveloper1.github.io/dosomething//wp-content/themes/prose/img/bg-content.gif') repeat-y;
+	background: url('https://rashiddeveloper1.github.io/dosomething/wp-content/themes/prose/img/bg-content.gif') repeat-y;
 	}
 .content-area:after {
 	left: auto;
@@ -796,7 +796,7 @@ img[class*="attachment-"] {
 	color: #999;
 	font-size: 14px;
 	font-size: 1.4rem;
-	background: url('https://rashiddeveloper1.github.io/dosomething//wp-content/themes/prose/img/arrow-nav.png') no-repeat;
+	background: url('https://rashiddeveloper1.github.io/dosomething/wp-content/themes/prose/img/arrow-nav.png') no-repeat;
 	}
 .site-content [class*="navigation"] a:hover {
 	color: #353535;
@@ -986,7 +986,7 @@ img[class*="attachment-"] {
 	font-size: 14px;
 	font-size: 1.4rem;
 	line-height: 1.5;
-	background: #252525 url('https://rashiddeveloper1.github.io/dosomething//wp-content/themes/prose/img/bg-extra.jpg');
+	background: #252525 url('https://rashiddeveloper1.github.io/dosomething/wp-content/themes/prose/img/bg-extra.jpg');
 	}
 .site-extra a,
 .site-extra a:hover {
@@ -1033,7 +1033,7 @@ img[class*="attachment-"] {
 	font-size: 1.4rem;
 	text-align: center;
 	line-height: 1.5;
-	background: #151515 url('https://rashiddeveloper1.github.io/dosomething//wp-content/themes/prose/img/bg-footer.gif');
+	background: #151515 url('https://rashiddeveloper1.github.io/dosomething/wp-content/themes/prose/img/bg-footer.gif');
 	}
 .site-footer .container {
 	padding-top: 20px;

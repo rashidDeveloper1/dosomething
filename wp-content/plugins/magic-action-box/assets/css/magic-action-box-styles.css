@@ -301,7 +301,7 @@ div.magic-action-box .mab-secondary-copy p:last-child, div.magic-action-box .mab
 
 /** Wysija **/
 .mab-wysija-msg{ margin: 10px 0; }
-.mab-wysija-msg .allmsgs blink{ padding-left: 24px; background: transparent url('https://rashiddeveloper1.github.io/dosomething//wp-content/plugins/magic-action-box/assets/css/images/loading.gif') no-repeat left center; display: block;}
+.mab-wysija-msg .allmsgs blink{ padding-left: 24px; background: transparent url('https://rashiddeveloper1.github.io/dosomething/wp-content/plugins/magic-action-box/assets/css/images/loading.gif') no-repeat left center; display: block;}
 .mab-wysija-msg .allmsgs{}
 .mab-wysija-msg .allmsgs ul{ margin: 0 0 0 16px !important;}
 .mab-wysija-msg .allmsgs .updated{ background: lightYellow; border: 1px solid #E6DB55; border-radius: 3px; color: #000; display: block; margin: 10px 0; padding: 8px; text-shadow: none; }
